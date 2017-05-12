@@ -1,0 +1,21 @@
+{
+    "name": "zobe/taskinfo",
+  "description": "`zobe/taskinfo` is in process messaging base classes which is mainly targeted to amphp coroutines",
+  "keywords": [
+  ],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zobe",
+            "email": "zobe-github@zobe.jp"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "zobe\\TaskInfo\\": "src/"
+        }
+    }
+}
